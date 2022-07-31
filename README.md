@@ -9,8 +9,9 @@ background-image:url('https://image.shutterstock.com/image-vector/job-interview-
 background-size:100%;
 
     }
-</head>
-</style>
+    </style>
+    </head>
+
 <h1 style="text-align:center;">TCS Exam Registration Form</h1>
 <p>Fill The Form Below</p>
 <center><img src="https://www.nicepng.com/png/full/397-3972054_tata-consultancy-services-tata-consultancy-services-logo.png" width="400" height="100"></center>
